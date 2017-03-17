@@ -1,0 +1,4 @@
+tracert -d 59.67.1.1
+tracert -d 101.7.8.9
+tracert -d 202.99.96.68
+tracert -d 219.150.32.132
